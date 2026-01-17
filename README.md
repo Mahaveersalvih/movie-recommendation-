@@ -85,7 +85,7 @@ Calculates the Cosine Similarity score between the input movie and all other mov
 
 Recommendation:
 
-Returns the top 15-30 movies with the highest similarity scores.
+Returns the top 5-10 movies with the highest similarity scores.
 
 🔮 Future Scope
 Hybrid Filtering: Incorporate user ratings for more personalized accuracy.
