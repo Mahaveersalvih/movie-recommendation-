@@ -92,7 +92,7 @@ Hybrid Filtering: Incorporate user ratings for more personalized accuracy.
 
 Sentiment Analysis: Analyze movie reviews to determine the "mood" of a movie automatically.
 
-Live Deployment: Host the web app on Streamlit Cloud or Heroku.
+Live Deployment: Host the web app on Streamlit Cloud .
 
 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
